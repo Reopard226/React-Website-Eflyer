@@ -63,7 +63,7 @@
     "http": "0.0.0",
     "imports-loader": "^0.7.1",
     "isomorphic-fetch": "^2.2.1",
-    "jquery": "2.2.4",
+    "jquery": "3.5.0",
     "jquery-ui": "^1.10.5",
     "jquery-ui-npm": "^1.12.0",
     "jquery-validation": "^1.15.1",
