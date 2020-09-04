@@ -59,7 +59,7 @@
     "request": "^2.81.0",
     "require-dir": "^0.3.1",
     "rootpath": "^0.1.2",
-    "sequelize": "^3.30.4",
+    "sequelize": "^6.3.5",
     "sequelize-cli": "^2.7.0",
     "throng": "^4.0.0",
     "winston": "^2.3.1",
